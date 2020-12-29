@@ -1,2 +1,1 @@
-# plymouth-parks-footfall
-plymouth parks footfall sample
+# Plymouth Parks footfall app
